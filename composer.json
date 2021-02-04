@@ -1,0 +1,23 @@
+{
+  "name": "swoole/task",
+  "description": "thirdparty log",
+  "type": "project",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "panxp",
+      "email": "coolpan123@gmail.com"
+    }
+  ],
+  "require": {
+    "guzzlehttp/guzzle": "^7.0",
+    "ext-json": "*",
+    "monolog/monolog": "^2.2"
+  },
+  "repositories": {
+    "packagist": {
+      "type": "composer",
+      "url": "https://mirrors.aliyun.com/composer/"
+    }
+  }
+}
